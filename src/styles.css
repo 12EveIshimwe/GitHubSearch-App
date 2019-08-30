@@ -1,0 +1,22 @@
+body{
+    /* background-image: url("https://images.wallpaperscraft.com/image/airplane_photoshop_sunset_wharf_120008_300x168.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ /* header{
+    text-align: center;
+    background-color: black;
+ } */
+ p{
+    color: black;
+ }
+ h1 {
+     font-size: 60px;
+ }
+ #search {
+     text-align: center;
+     width:700px;
+     height: 40px;
+     border-color: skyblue;
+ }
+ 
