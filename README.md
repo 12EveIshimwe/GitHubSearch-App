@@ -6,16 +6,13 @@ GitHub Searching Application is an active App used to put a Github username in t
 ## Installation Requirements
 None
 ## Behavior Drive Development
-1.The user has to input 
-2.The user will meet an about us for more information.
-3.The user has to see if the services he/she wants are delivered by this Studio in Services section.
-4.There is a segment of what we've done,you can compare to.
-5.For any comment,booking or any kind of message to our Studio,please fill the contact us page.
+1.The user has to input any github username.
+2.The app reply with all the info(profile and repositories) about the person.
+3.If not available among Github members they give you a message.
+4.The user can even slide into any of the GitHub users repositories.
 ## Bugs:
 None
 ## Technologies Used:
-Html
-CSS
 Angular 6
 Bootstrap
 ## Contact Details:
