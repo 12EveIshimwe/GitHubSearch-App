@@ -13,7 +13,7 @@ None
 ## Bugs:
 None
 ## Technologies Used:
-Angular 6
+* Angular 6
 Bootstrap
 ## Contact Details:
 Email:eveish@gmail.com
