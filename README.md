@@ -19,4 +19,4 @@ Bootstrap
 Email:eveish@gmail.com
 Phone number: 0788123450
 ## License
-Copyright (c) 2019 Evelyne N. Ishimwe
+Copyright (c) 2019 Evelyne N. 
