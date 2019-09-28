@@ -1,5 +1,5 @@
 ## GitHub Search Profile
-Author:Eve 
+Author:Eve Ishimwe
 This Application will help users to input any Github Username and get all their profile and repositories.
 ## Description
 GitHub Searching Application is an active App used to put a Github username in the search and get his/her full profile and all done repositories on his account. And when the inputted name doesn't exist the app let you know that it is not among GitHUb users. After accessing his profile you can dim into his/her repos and all her work as well as you see his photo profile if he/she has one and related info on his page.
