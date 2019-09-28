@@ -7,7 +7,7 @@ GitHub Searching Application is an active App used to put a Github username in t
 None
 ## Behavior Drive Development
 *The user has to input any github username.
-2.The app reply with all the info(profile and repositories) about the person.
+* The app reply with all the info(profile and repositories) about the person.
 3.If not available among Github members they give you a message.
 4.The user can even slide into any of the GitHub users repositories.
 ## Bugs:
