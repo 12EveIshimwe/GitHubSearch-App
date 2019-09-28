@@ -8,7 +8,7 @@ None
 ## Behavior Drive Development
 1.The user has to input any github username.
 2.The app reply with all the info(profile and repositories) about the person.
-3.If not available among Github members they give you a message.
+3.If not available among Github members they give you a .
 4.The user can even slide into any of the GitHub users repositories.
 ## Bugs:
 None
