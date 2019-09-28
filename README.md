@@ -17,6 +17,6 @@ Angular 6
 Bootstrap
 ## Contact Details:
 Email:eveish@gmail.com
-Phone number: 0788123450
+Phone number: 078812345
 ## License
 Copyright (c) 2019 Evelyne N. Ishimwe
