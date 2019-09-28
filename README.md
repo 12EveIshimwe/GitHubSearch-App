@@ -14,7 +14,7 @@ Non
 None
 ## Technologies Used:
 Angular 6
-B
+Bootstrap
 ## Contact Details:
 Email:eveish@gmail.com
 Phone number: 0788123450
